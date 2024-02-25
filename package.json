@@ -12,6 +12,10 @@
   "devDependencies": {
     "typescript": "3.3.3"
   },
+  "overrides": {
+    "nth-check": "2.0.1",
+    "postcss": "8.4.31"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
